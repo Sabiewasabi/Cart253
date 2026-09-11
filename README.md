@@ -3,4 +3,4 @@
 # Cart253
 This is Pippin Barr’s coursework repository for CART253
 
-	![My website banner](images/kirby.jpg)
+	![alt text](Cart253/Images/Kirby.jpg)
