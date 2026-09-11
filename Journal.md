@@ -1,3 +1,5 @@
+[Home](README.md) / [My portfolio](https://sabrinarath263.wixsite.com/srathdesigns) / [Reflective Journal](Journal.md) / Prototypes
+
 # **Reflective journal** 📝
 
 ### My first impression of making a website and using Markdown - **09/11/2029**
