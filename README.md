@@ -1,6 +1,6 @@
 
 
-# **CART253** :seeding:
+# **CART253** :seedling:
 This is Pippin Barr’s coursework repository for CART253
 
 ![Banner](Images/Kirby.jpg)
