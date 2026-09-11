@@ -9,5 +9,5 @@ This is Pippin Barr’s coursework repository for CART253
 
 ## Links
 - [View my portfolio](https://sabrinarath263.wixsite.com/srathdesigns)
-- [Read my reflective Journal](journal.md)
+- [Read my reflective Journal](Journal.md)
 - Prototypes
