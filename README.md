@@ -8,6 +8,6 @@ This is Pippin Barr’s coursework repository for CART253
 >The purpose of this website is to collect together and show off our prototyping work in this course.
 
 ## Links
-- [Portfolio](https://sabrinarath263.wixsite.com/srathdesigns)
-- Reflective journal
+- [View my portfolio](https://sabrinarath263.wixsite.com/srathdesigns)
+- [Read my reflective Journal](journal.md)
 - Prototypes
