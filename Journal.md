@@ -8,4 +8,4 @@ I would like to begin by saying that this whole experience turned out to be more
 
 My computer science friends weren't jokiing when they said an additional space can break everything....
 
-Despite the chaos, I really enjoy how you can see every addition and changes you make through the Markdown Open Preview (that's how I learnt it the hard way that it was the additional typed space that prevented my banner from popping up - deleted it and POOF KIRBY WAS BORN!❤️). I've done some coding back in college, I wasn't all that terrible at it but I just need to jog my brain a bit to hit the road running.
+Despite the chaos, I really enjoy how you can see every addition and changes you make through the Markdown Open Preview (that's how I learnt it the hard way that it was the additional typed space that prevented my banner from popping up - deleted it and POOF KIRBY WAS BORN!❤️). I've done some coding back in college, I wasn't all that terrible at it but I just need to jog my brain a bit to hit the ground running.
